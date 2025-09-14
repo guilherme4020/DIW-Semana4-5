@@ -106,3 +106,16 @@ footer {
     margin-top: 10px;
   }
 }
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card img {
+  object-fit: cover;
+  height: 200px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
